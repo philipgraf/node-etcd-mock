@@ -1,0 +1,25 @@
+{
+  "name": "node-etcd-mock",
+  "version": "0.1.0",
+  "description": "A mock server for etcd",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:philipgraf/node-etcd-mock.git"
+  },
+  "keywords": [
+    "mock",
+    "etcd",
+    "coreos",
+    "testing"
+  ],
+  "author": "Philip Graf <philip.graf@novapo.net>",
+  "license": "GPL2.0",
+  "bugs": {
+    "url": "https://github.com/philipgraf/node-etcd-mock/issues"
+  },
+  "homepage": "https://github.com/philipgraf/node-etcd-mock"
+}
